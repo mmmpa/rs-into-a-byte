@@ -1,3 +1,5 @@
+#![no_std]
+
 /// Build ORed byte from members of tuple of Into<u8> that acts as a bit switch.
 ///
 /// # Example
